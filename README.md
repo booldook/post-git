@@ -84,10 +84,15 @@ firebase deploy
     html5/css3/Javascript ES5/jQuery + Ajax + Firebase
 
 ### 실무에서 마주하게 될 개발 환경
-   가. PHP/ASPX/JSP 개발환경 - 회사마다 즐겨 사용하는 Framework에서 작업 (80%~)
-       예) codeIgniter(php), Yii(php) ...
-   나. FrontEnd 개발 환경 - node.js(npm)
+
+   #####가. PHP/ASPX/JSP 개발환경 - 회사마다 즐겨 사용하는 Framework에서 작업 (80%~)
+   ~~~
+   예) codeIgniter(php), Yii(php) ...
+   ~~~
+   #####나. FrontEnd 개발 환경 - node.js(npm)
+   ~~~
        예) Webpack Babel/React/React Reduce/Angular/Vue/Ionic/....
+       ~~~
 
 
 # GIT 팁 모음
