@@ -1,5 +1,46 @@
 # 각종 설치 및 팁 정리
 
+# Firebase 설치
+### nodejs 설치
+~~~
+node -v
+~~~
+---
+### firebase cli 설치
+~~~
+npm install -g firebase-tools
+~~~
+---
+### firebase Login
+~~~
+firebase login
+firebase list
+~~~
+---
+### firebase 프로젝트 만들기
+개발폴더에 firebase 프로젝트폴더 생성후 (ex: firebasememo)
+해당폴더로 이동후
+~~~
+firebase init
+-> database선택
+-> database.rule.json
+-> public 폴더 사용
+-> index.html 사용
+~~~
+---
+### firebase 실행
+~~~
+firebase serve
+~~~
+---
+### firebase 배포
+~~~
+firebase deploy
+~~~
+---
+
+
+
 # GIT 팁 모음
 ### 20개 내외의 명령어로 Git 사용하기
 ```sh
