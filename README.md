@@ -668,10 +668,6 @@ git update-index --no-assume-unchanged <file_name>
 
 ### `.gitignore`에 명시된 파일들 삭제하기
 ```sh
-git clean -X -f
-```
-### `.gitignore`에 명시된 파일들 삭제하기
-```sh
 // 원격 저장소와 로컬 저장소에 있는 파일을 삭제한다.
 $ git rm [File Name]
 
